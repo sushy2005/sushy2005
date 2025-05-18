@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ![Lofi](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGxvbHV0amNjbW9qZ3l1dDU2eWt1MTl3YjgxNW81cTgzYWxqMDAxNCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/RemHbGtR3lNsqyERMS/giphy.gif) About Me:
 🔭 I’m currently working on Music Player<br><br>🌱 I’m currently learning Next.js, Docker, and cloud deployment<br><br>👯 I’m looking to work on Contributing to open source projects on GitHub<br><br>👨‍💻 All of my projects are available at sushmeli.me<br><br>💬 Ask me about Full-stack web development, JavaScript / TypeScript React, Next.js, and Node.js REST APIs & GraphQL Database design (MongoDB, PostgreSQL) DevOps basics: Docker, GitHub Actions Building responsive & accessible UIs Learning paths for beginners in web dev<br><br>📫 How to reach me bsushmeli@gmail.com<br><br>⚡ Fun fact I started coding just for fun—and now I can’t stop
 
 
