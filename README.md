@@ -13,7 +13,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=sushy2005&theme=omni&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sushy2005&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# <img src="https://media.giphy.com/media/M3FNreQbdf1GSYrjqA/giphy.gif?cid=ecf05e47msubiitm2tmog40nq0an8gvyq6tacak3nci6q4dj&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="Lofi" width="40" height ="40" style="vertical-align: middle;"/>  GitHub Trophies
+# <img src="https://media.giphy.com/media/3oEhn80aXdOBpa4FMs/giphy.gif?cid=ecf05e471difiz29ryjhmyontcbca8igh9nm7qmgqhkbfldv&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="Lofi" width="40" height ="40" style="vertical-align: middle;"/>  GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sushy2005&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 # <img src="https://media.giphy.com/media/dCjgjlXrflbRFqNiRL/giphy.gif?cid=ecf05e473jdho7tf6bkhi63urputy2ystvrtgmrs2n5l6yg5&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="Lofi" width="40" height ="40" style="vertical-align: middle;"/>  Random Dev Quote
