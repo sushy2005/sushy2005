@@ -1,5 +1,4 @@
-# ![image](https://github.com/user-attachments/assets/dd73e766-5f52-4569-8c0e-765d1e21abcd)
- About Me:
+# 💫 About Me:
 🔭 I’m currently working on Music Player<br><br>🌱 I’m currently learning Next.js, Docker, and cloud deployment<br><br>👯 I’m looking to work on Contributing to open source projects on GitHub<br><br>👨‍💻 All of my projects are available at sushmeli.me<br><br>💬 Ask me about Full-stack web development, JavaScript / TypeScript React, Next.js, and Node.js REST APIs & GraphQL Database design (MongoDB, PostgreSQL) DevOps basics: Docker, GitHub Actions Building responsive & accessible UIs Learning paths for beginners in web dev<br><br>📫 How to reach me bsushmeli@gmail.com<br><br>⚡ Fun fact I started coding just for fun—and now I can’t stop
 
 
