@@ -1,5 +1,5 @@
 # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWZhY2wxMjkxaWF5NDNkNXptZXViZ2J0ZGdtMzgwdWxkbjM2ZzNndSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/vEcTsPwp2ilQz5bGQ8/giphy.gif" alt="Lofi" width="60" height ="60" style="vertical-align: middle;"/> About Me:
-🔭 I’m currently working on Music Player<br><br> <img align ="right" alt ="coding" width ="400" src = "https://i.pinimg.com/originals/bc/64/ec/bc64eca2ac244d7886d5da39ebcf13a7.gif">🌱 I’m currently learning Next.js, Docker, and cloud deployment<br><br>👯 I’m looking to work on Contributing to open source projects on GitHub<br><br>
+🔭 I’m currently working on Music Player<br><br> <img align ="right" alt ="coding" width ="400" src ="https://i.pinimg.com/736x/e4/e5/10/e4e5106db677225c9a9e20aa85d98b0f.jpg">🌱 I’m currently learning Next.js, Docker, and cloud deployment<br><br>👯 I’m looking to work on Contributing to open source projects on GitHub<br><br>
 👨‍💻 All of my projects are available at sushmeli.me<br><br>💬 Ask me about Full-stack web development, JavaScript / TypeScript React, Next.js, and Node.js REST APIs & GraphQL Database design (MongoDB, PostgreSQL) DevOps basicsv<br><br>📫 How to reach me bsushmeli@gmail.com<br><br>⚡ Fun fact I started coding just for fun—and now I can’t stop
 
 
